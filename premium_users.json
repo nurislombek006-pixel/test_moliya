@@ -1,0 +1,152 @@
+{
+  "premiumUserIds": [
+    "7691070152"
+  ],
+  "incognitoUserIds": [],
+  "users": {
+    "8605695876": {
+      "active": true,
+      "accessType": "marketing",
+      "incognito": true
+    },
+    "6610925597": {
+      "active": true,
+      "accessType": "combo",
+      "incognito": true
+    },
+    "5305261101": {
+      "active": true,
+      "accessType": "combo",
+      "incognito": true
+    },
+    "1280180250": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-15 20:18:52"
+    },
+    "6565613059": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-15 20:22:31"
+    },
+    "8499297257": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-15 21:08:57"
+    },
+    "5684619979": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-15 22:03:25"
+    },
+    "5694924195": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-15 22:14:34"
+    },
+    "1025838141": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-16 23:59:35"
+    },
+    "5068608300": {
+      "active": true,
+      "accessType": "micro",
+      "sections": [
+        "micro"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-17 10:47:00"
+    },
+    "8520173086": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-17 11:35:25"
+    },
+    "8591527343": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-17 11:35:46"
+    },
+    "7852225471": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-18 11:33:56"
+    },
+    "709862589": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-18 11:34:39"
+    },
+    "7165576579": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-18 12:28:30"
+    },
+    "1746519313": {
+      "active": true,
+      "accessType": "combo",
+      "sections": [
+        "micro",
+        "marketing"
+      ],
+      "updatedBy": "generate_micro_key.py",
+      "updatedAt": "2026-05-18 12:28:56"
+    }
+  }
+}
